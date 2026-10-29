@@ -81,13 +81,13 @@ _Growing my toolkit, one project at a time ♡_
     <td align="center" width="50%" valign="top">
       <h3> FoodFlow</h3>
       <p>A food-related project focused on making the experience more convenient.</p>
-      <p><strong>Tech:</strong> Add your actual stack</p>
+      <p><strong>Tech:</strong> JAVA . DSA . INTELLIJ</p>
       <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
     <td align="center" width="50%" valign="top">
       <h3> UrbanMart AI</h3>
       <p>An AI-focused project exploring smarter shopping experiences.</p>
-      <p><strong>Tech:</strong> Add your actual stack</p>
+      <p><strong>Tech:</strong> N8N . AI AUTOMATION</p>
       <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
   </tr>
@@ -95,13 +95,13 @@ _Growing my toolkit, one project at a time ♡_
     <td align="center" width="50%" valign="top">
       <h3> Skincare Python</h3>
       <p>A Python project related to skincare information or recommendations.</p>
-      <p><strong>Tech:</strong> Python · Add other tools used</p>
+      <p><strong>Tech:</strong> Python </p>
       <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
     <td align="center" width="50%" valign="top">
       <h3> StartStrum</h3>
       <p>A project designed to help people get started with learning guitar.</p>
-      <p><strong>Tech:</strong> Add your actual stack</p>
+      <p><strong>Tech:</strong> HTML . CSS</p>
       <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
   </tr>
