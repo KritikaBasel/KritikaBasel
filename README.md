@@ -33,35 +33,39 @@ I'm a third-year BSc (Hons) Computing student who is working toward a career in 
 
 <div align="center">
 
-<p><em>Little tools I'm learning and growing with ♡</em></p>
+_Growing my toolkit, one project at a time ♡_
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3> Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,mysql" height="42" alt="JavaScript, TypeScript, Python and MySQL" />
+      <h3> Languages & Web</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" alt="HTML, CSS, JavaScript, TypeScript, Python and Java" />
       <br/><br/>
-      <sub>JavaScript · TypeScript · Python · SQL</sub>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="React, Next.js, Node.js and Express" />
+      <br/><br/>
+      <sub>HTML5 · CSS3 · JavaScript · TypeScript · Python · Java · React · Next.js · Node.js · Express</sub>
     </td>
     <td align="center" width="50%">
-      <h3> Web Development</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="42" alt="React, Next.js, Node.js and Express" />
+      <h3> Data & Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB" />
       <br/><br/>
-      <sub>React · Next.js · Node.js · Express</sub>
+      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+      <br/><br/>
+      <sub>MySQL · Pandas · Anaconda · Data Analysis · Power BI</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3> Data & AI</h3>
-      <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
+      <h3> Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" alt="AWS, Docker, Linux and Bash" />
       <br/><br/>
-      <sub>Power BI · Python · AI tools</sub>
+      <sub>AWS · Docker · Linux · Bash</sub>
     </td>
     <td align="center" width="50%">
-      <h3> Tools & Workflow</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="42" alt="Git, GitHub, Docker and VS Code" />
+      <h3> Design & Productivity</h3>
+      <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" alt="Figma, Git, GitHub and VS Code" />
       <br/><br/>
-      <sub>Git · GitHub · Docker · VS Code</sub>
+      <sub>Figma · Trello · Git · GitHub · VS Code</sub>
     </td>
   </tr>
 </table>
@@ -74,37 +78,38 @@ I'm a third-year BSc (Hons) Computing student who is working toward a career in 
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">SajiloYatra</h3>
-      <p align="center">A project focused on making travel planning easier.</p>
-      <p align="center"><strong>Stack:</strong> REPLACE_WITH_SAJILOYATRA_STACK</p>
-      <p align="center"><a href="REPLACE_WITH_SAJILOYATRA_REPO_URL">View repository ↗</a></p>
+    <td align="center" width="50%" valign="top">
+      <h3> FoodFlow</h3>
+      <p>A food-related project focused on making the experience more convenient.</p>
+      <p><strong>Tech:</strong> Add your actual stack</p>
+      <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Gym Management System</h3>
-      <p align="center">A system for organizing gym-related information and workflows.</p>
-      <p align="center"><strong>Stack:</strong> REPLACE_WITH_GYM_PROJECT_STACK</p>
-      <p align="center"><a href="REPLACE_WITH_GYM_REPO_URL">View repository ↗</a></p>
+    <td align="center" width="50%" valign="top">
+      <h3> UrbanMart AI</h3>
+      <p>An AI-focused project exploring smarter shopping experiences.</p>
+      <p><strong>Tech:</strong> Add your actual stack</p>
+      <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Node.js / Express REST API</h3>
-      <p align="center">A backend project for learning API routes and request/response handling.</p>
-      <p align="center"><strong>Stack:</strong> Node.js · Express · REPLACE_WITH_DATABASE</p>
-      <p align="center"><a href="REPLACE_WITH_API_REPO_URL">View repository ↗</a></p>
+    <td align="center" width="50%" valign="top">
+      <h3> Skincare Python</h3>
+      <p>A Python project related to skincare information or recommendations.</p>
+      <p><strong>Tech:</strong> Python · Add other tools used</p>
+      <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Power BI Project</h3>
-      <p align="center">A data-focused project exploring analysis and visual reporting.</p>
-      <p align="center"><strong>Stack:</strong> Power BI · REPLACE_WITH_DATA_SOURCE</p>
-      <p align="center"><a href="REPLACE_WITH_POWERBI_REPO_OR_PROJECT_URL">View project ↗</a></p>
+    <td align="center" width="50%" valign="top">
+      <h3> StartStrum</h3>
+      <p>A project designed to help people get started with learning guitar.</p>
+      <p><strong>Tech:</strong> Add your actual stack</p>
+      <a href="https://github.com/KritikaBasel">View projects ↗</a>
     </td>
   </tr>
 </table>
 
 </div>
 
+<br>
 <div align="center">
   <img
     height="165"
