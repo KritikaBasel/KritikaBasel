@@ -24,8 +24,6 @@ _Learning by building, one small step at a time._
 
 I'm a third-year BSc (Hons) Computing student who is working toward a career in technology and figuring out where my strengths fit best. I'm interested in software development, data, and AI, and I like understanding how things work behind the scenes—not just getting something to run.
 
-Right now, I'm strengthening my programming fundamentals and learning by building projects, experimenting with tools, and improving the way I solve problems. I don't expect to know everything yet; I want to keep asking better questions, get more comfortable debugging, and turn what I learn into things people can actually use.
-
 - **Currently learning:** TypeScript, web application development, APIs, Python, and practical developer workflows.
 - **Interested in:** Software engineering, data engineering and useful AI-powered applications.
 - **How I learn:** By building, testing, breaking things, reading the error, and trying again.
@@ -33,30 +31,42 @@ Right now, I'm strengthening my programming fundamentals and learning by buildin
 
 ## Skills & Tools
 
-_These are technologies I've studied, explored, or used in coursework and projects—not a claim that I'm an expert in all of them._
+<div align="center">
+
+<p><em>Little tools I'm learning and growing with ♡</em></p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <strong>Languages</strong><br /><br />
-      JavaScript · TypeScript · Python · SQL
+      <h3> Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,mysql" height="42" alt="JavaScript, TypeScript, Python and MySQL" />
+      <br/><br/>
+      <sub>JavaScript · TypeScript · Python · SQL</sub>
     </td>
     <td align="center" width="50%">
-      <strong>Web Development</strong><br /><br />
-      React · Next.js · Node.js · Express
+      <h3> Web Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="42" alt="React, Next.js, Node.js and Express" />
+      <br/><br/>
+      <sub>React · Next.js · Node.js · Express</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <strong>Data & AI</strong><br /><br />
-      Power BI · AI tools and agent workflows
+    <td align="center" width="50%">
+      <h3> Data & AI</h3>
+      <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
+      <br/><br/>
+      <sub>Power BI · Python · AI tools</sub>
     </td>
-    <td align="center">
-      <strong>Tools & Workflow</strong><br /><br />
-      Git · GitHub · Docker · VS Code
+    <td align="center" width="50%">
+      <h3> Tools & Workflow</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" height="42" alt="Git, GitHub, Docker and VS Code" />
+      <br/><br/>
+      <sub>Git · GitHub · Docker · VS Code</sub>
     </td>
   </tr>
 </table>
+
+</div>
 
 ## Projects I'm Working On
 
@@ -95,15 +105,17 @@ _These are technologies I've studied, explored, or used in coursework and projec
 
 </div>
 
-> Project descriptions and technology stacks are starter copy. Replace them with the exact details from each repository before publishing.
-
-## GitHub Garden
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KritikaBasel&show_icons=true&hide_border=true&bg_color=00000000&title_color=477A50&icon_color=C58D98&text_color=8A817C&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://streak-stats.demolab.com?user=KritikaBasel&hide_border=true&background=00000000&ring=C58D98&fire=E9C66B&currStreakLabel=477A50&sideLabels=8A817C&currStreakNum=477A50&sideNums=477A50&dates=8A817C" alt="GitHub contribution streak" />
-
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=KritikaBasel&show_icons=true&hide_border=true&bg_color=00000000&title_color=477A50&icon_color=C58D98&text_color=8A817C"
+    alt="GitHub profile statistics"
+  />
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=KritikaBasel&hide_border=true&background=00000000&ring=C58D98&fire=E9C66B&currStreakLabel=477A50&sideLabels=8A817C&currStreakNum=477A50&sideNums=477A50&dates=8A817C"
+    alt="GitHub contribution streak"
+  />
 </div>
 
 <div align="center">
@@ -127,9 +139,9 @@ _These are technologies I've studied, explored, or used in coursework and projec
 If you'd like to connect, find me here:
 
 [![GitHub](https://img.shields.io/badge/GitHub-KritikaBasel-477A50?style=flat-square&logo=github&logoColor=white)](https://github.com/KritikaBasel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C58D98?style=flat-square&logo=linkedin&logoColor=white)](REPLACE_WITH_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-E9C66B?style=flat-square&logo=gmail&logoColor=30272D)](mailto:REPLACE_WITH_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C58D98?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kritika-basel-614012264/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-E9C66B?style=flat-square&logo=gmail&logoColor=30272D)](mailto:baselkritika@gmail.com)
 
-<img src="./assets/pixel-garden.svg" alt="Matching pastel pixel-art meadow footer" width="100%" />
+<img src="./assets/pixel-footer.svg" alt="Matching pastel pixel-art meadow footer" width="100%" />
 
 </div>
