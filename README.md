@@ -6,7 +6,7 @@ Before publishing, replace the REPLACE_WITH_* placeholders with real links/detai
 
 <div align="center">
 
-<img src="./assets/pixel-header.svg" alt="Pastel pixel-art meadow with a desk and a girl at a computer" width="100%" />
+<img src="./assets/pixel-header.jpeg" alt="Pastel pixel-art meadow with a desk and a girl at a computer" width="100%" />
 
 # Hi, I'm Kritika!
 
